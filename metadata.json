@@ -1,0 +1,6 @@
+{
+  "name": "BotHost - Telegram Bot Cloud Hosting Platform",
+  "description": "Free web hosting platform to upload, run, and manage unlimited Telegram bots and Python scripts 24/7 live with real-time logs, code editor, and package manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

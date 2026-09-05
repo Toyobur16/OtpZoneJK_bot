@@ -1,0 +1,13 @@
+[
+  {
+    "id": "sms-panel-bot",
+    "name": "Mino SMS Panel Bot",
+    "entryFile": "bot.py",
+    "token": "8814477083:AAH_G8v9gg3YRyVUyYvVRZ65Y_ZIT2nffJM",
+    "botUsername": "",
+    "status": "running",
+    "createdAt": "2026-09-05T21:40:41.798Z",
+    "autoRestart": true,
+    "env": {}
+  }
+]

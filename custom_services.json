@@ -1,0 +1,46 @@
+[
+  {
+    "sid": "FACEBOOK",
+    "ranges": [
+      {
+        "range": "23762XXX",
+        "country": "🇨🇲 Cameroon"
+      },
+      {
+        "range": "4077XXX",
+        "country": "🇷🇴 Romania"
+      }
+    ]
+  },
+  {
+    "sid": "WHATSAPP",
+    "ranges": [
+      {
+        "range": "22501XXX",
+        "country": "🇨🇮 Ivory Coast"
+      },
+      {
+        "range": "26132XXX",
+        "country": "🇲🇬 Madagascar"
+      }
+    ]
+  },
+  {
+    "sid": "TELEGRAM",
+    "ranges": [
+      {
+        "range": "23765XXX",
+        "country": "🇨🇲 Cameroon"
+      }
+    ]
+  },
+  {
+    "sid": "TIKTOK",
+    "ranges": [
+      {
+        "range": "22505XXX",
+        "country": "🇨🇮 Ivory Coast"
+      }
+    ]
+  }
+]

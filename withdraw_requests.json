@@ -1,0 +1,11 @@
+{
+  "req_sample_101": {
+    "user_id": 6130692829,
+    "method": "BKASH",
+    "amount": 100.0,
+    "number": "01712345678",
+    "payment_id": "req_sample_101",
+    "status": "pending",
+    "timestamp": "2026-09-05T12:00:00"
+  }
+}
